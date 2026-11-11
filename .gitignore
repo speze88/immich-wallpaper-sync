@@ -1,0 +1,15 @@
+# Local build and package checksums
+/immich-wallpaper-sync
+/SHA256SUMS
+*.test
+coverage.out
+
+# Personal configuration and runtime state
+config.json
+.env
+.env.*
+!.env.example
+.immich-wallpaper-sync.json
+.immich-wallpaper-sync.lock
+.download-*
+.sync-*
