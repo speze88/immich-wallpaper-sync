@@ -1,6 +1,7 @@
 # Local build and package checksums
 /immich-wallpaper-sync
 /SHA256SUMS
+/dist/
 *.test
 coverage.out
 
